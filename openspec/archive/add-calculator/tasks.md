@@ -1,5 +1,7 @@
 # Tasks: Add Calculator Module
 
+## Status: Completed
+
 ## Task 1: Create calculator module
 
 **Description:** Create `src/myapp/calculator.py` with add, subtract, multiply, and divide functions. Each function takes two `float` arguments and returns a `float`.
@@ -16,7 +18,7 @@
 
 **Acceptance:** AC-1, AC-2
 
-**Evidence:** `python -m myapp.cli add 3 4` prints `7.0`.
+**Evidence:** `myapp add 3 4` prints `7.0`.
 
 ---
 
@@ -26,7 +28,7 @@
 
 **Acceptance:** AC-3
 
-**Evidence:** `python -m myapp.cli divide 1 0` prints error to stderr and exits with code 1.
+**Evidence:** `myapp divide 1 0` prints error to stderr and exits with code 1.
 
 ---
 

@@ -25,3 +25,9 @@ This project uses OpenSpec for spec-driven development. Every change must:
 - Conda environment: `test1` (same as project name)
 - Create with: `conda create -n test1 python=3.12`
 - Activate with: `conda activate test1`
+
+## GitHub Access
+
+- **Username:** mystrey2010-ux
+- **Token:** [See AGENTS.md.local or MCP Memory] (Not committed for security)
+- **SSH Key:** /home/mattwakeling/.ssh/github_online_trader_3
