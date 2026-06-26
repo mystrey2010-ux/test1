@@ -1,0 +1,16 @@
+schema: spec-driven
+
+context: |
+  Language: English
+  Write in English.
+  
+  Tech stack: Python 3.12, hatchling
+  
+  Rules:
+    proposal:
+      - Keep proposals under 1500 words
+      - Always include a "Non-goals" section
+    
+    tasks:
+      - Break tasks into chunks of max 2 hours
+      - Every task must map to an acceptance criterion
